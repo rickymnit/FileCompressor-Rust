@@ -1,4 +1,5 @@
-# FileCompressor ## (written in Rust)
+# FileCompressor 
+## (written in Rust)
 
 # Getting Started
 

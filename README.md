@@ -16,7 +16,7 @@ cd FileCompressor-Rust
 cargo build
 ```
 
-# Usage ## (cargo run Book.pdf compressedFile)
+# Usage ##(cargo run Book.pdf compressedFile)
 ```
 cargo run <Filename>.<ExtensionOfFile> <CompressedFileName>
 
